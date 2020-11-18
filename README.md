@@ -1,2 +1,6 @@
 # hello-world
-An average repository
+
+Hi everyone!
+
+
+My name is Kerbe, and I'm still new at Github.
